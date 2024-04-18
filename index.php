@@ -32,7 +32,7 @@
      <hgroup>
         <h3>Esta es mi primera pagina web de producción la cual pude realizar gracias a un curso impartido por midulive, quien para mpi es un gran referente</h3>
         <p>dedicatoria <br>
-        Sandra patricia Nájera y Kenia gabriela Hernández
+        Sandra patricia Nájera y villalobos
         </p>
     </hgroup>
     
