@@ -41,7 +41,7 @@
     style="border-radius: 16px"/>
     </section>
     <hgroup>
-        <h3><?= $data["title"]; ?> kenia hermosa la película se estrena en <?= $data["days_until"]; ?>días</h3>
+        <h3><?= $data["title"]; ?>se estrena en <?= $data["days_until"]; ?>días</h3>
         <p>fecha de estreno: <?= $data["release_date"]; ?></p>
         <p>la siguiente es: <?= $data["following_production"]["title"]; ?></p>
     </hgroup>
